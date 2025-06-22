@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dasi.plus/posts/ca3cf4ed/</loc>
+    
+    <lastmod>2025-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/posts/546b580b/</loc>
     
     <lastmod>2025-06-22</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://dasi.plus/posts/d59ddab2/</loc>
-    
-    <lastmod>2025-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/posts/ca3cf4ed/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -867,14 +867,14 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/%E7%BC%96%E8%AF%91/</loc>
+    <loc>https://dasi.plus/tags/OpenGL/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/OpenGL/</loc>
+    <loc>https://dasi.plus/tags/%E7%BC%96%E8%AF%91/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -923,7 +923,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Distributed/</loc>
+    <loc>https://dasi.plus/tags/English/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -944,7 +944,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/English/</loc>
+    <loc>https://dasi.plus/tags/Distributed/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -958,14 +958,14 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
+    <loc>https://dasi.plus/tags/Parallel/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Parallel/</loc>
+    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
