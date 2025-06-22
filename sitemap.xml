@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dasi.plus/posts/1a450c6f/</loc>
+    <loc>https://dasi.plus/posts/d59ddab2/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -29,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/d59ddab2/</loc>
-    
-    <lastmod>2025-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dasi.plus/posts/50dce9b/</loc>
     
     <lastmod>2025-06-22</lastmod>
@@ -47,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/55180fbf/</loc>
+    <loc>https://dasi.plus/posts/1a450c6f/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -57,6 +48,15 @@
   
   <url>
     <loc>https://dasi.plus/posts/bdf533ac/</loc>
+    
+    <lastmod>2025-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/posts/55180fbf/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -951,6 +951,13 @@
   </url>
   
   <url>
+    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
+    <lastmod>2025-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/tags/Parallel/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -978,13 +985,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
-    <lastmod>2025-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -995,14 +995,14 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://dasi.plus/categories/%E5%AE%9E%E9%AA%8C/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dasi.plus/categories/%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>https://dasi.plus/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
