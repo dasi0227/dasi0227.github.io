@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/ca3cf4ed/</loc>
+    <loc>https://dasi.plus/posts/546b580b/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/546b580b/</loc>
+    <loc>https://dasi.plus/posts/ca3cf4ed/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -578,7 +578,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/8347bba9/</loc>
+    <loc>https://dasi.plus/posts/ae54bd6f/</loc>
     
     <lastmod>2025-04-05</lastmod>
     
@@ -587,7 +587,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/ae54bd6f/</loc>
+    <loc>https://dasi.plus/posts/8347bba9/</loc>
     
     <lastmod>2025-04-05</lastmod>
     
@@ -958,13 +958,6 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Parallel/</loc>
-    <lastmod>2025-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dasi.plus/tags/Machine-Learning/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -972,7 +965,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/VSCode/</loc>
+    <loc>https://dasi.plus/tags/Parallel/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -987,6 +980,13 @@
   
   <url>
     <loc>https://dasi.plus/tags/hexo/</loc>
+    <lastmod>2025-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/tags/VSCode/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
