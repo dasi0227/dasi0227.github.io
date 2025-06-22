@@ -923,14 +923,14 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Distributed/</loc>
+    <loc>https://dasi.plus/tags/English/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/English/</loc>
+    <loc>https://dasi.plus/tags/Distributed/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -972,6 +972,13 @@
   </url>
   
   <url>
+    <loc>https://dasi.plus/tags/VSCode/</loc>
+    <lastmod>2025-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/tags/Git/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -980,13 +987,6 @@
   
   <url>
     <loc>https://dasi.plus/tags/hexo/</loc>
-    <lastmod>2025-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/tags/VSCode/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
