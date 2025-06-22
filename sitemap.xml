@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dasi.plus/posts/d59ddab2/</loc>
+    <loc>https://dasi.plus/posts/546b580b/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/546b580b/</loc>
+    <loc>https://dasi.plus/posts/1a450c6f/</loc>
+    
+    <lastmod>2025-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/posts/d59ddab2/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://dasi.plus/posts/50dce9b/</loc>
-    
-    <lastmod>2025-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/posts/1a450c6f/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -923,13 +923,6 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/English/</loc>
-    <lastmod>2025-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dasi.plus/tags/Distributed/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -945,6 +938,13 @@
   
   <url>
     <loc>https://dasi.plus/tags/css/</loc>
+    <lastmod>2025-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/tags/English/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
