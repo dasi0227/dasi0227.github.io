@@ -958,13 +958,6 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
-    <lastmod>2025-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dasi.plus/tags/VSCode/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -985,6 +978,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
+    <lastmod>2025-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -995,14 +995,14 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/categories/%E5%AE%9E%E9%AA%8C/</loc>
+    <loc>https://dasi.plus/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dasi.plus/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://dasi.plus/categories/%E5%AE%9E%E9%AA%8C/</loc>
     <lastmod>2025-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
