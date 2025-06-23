@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dasi.plus/posts/55180fbf/</loc>
+    
+    <lastmod>2025-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/posts/57fa915c/</loc>
+    
+    <lastmod>2025-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/posts/46ae7d29/</loc>
+    
+    <lastmod>2025-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/posts/5ef94582/</loc>
+    
+    <lastmod>2025-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/posts/575c3f93/</loc>
     
     <lastmod>2025-06-23</lastmod>
@@ -111,15 +147,6 @@
   
   <url>
     <loc>https://dasi.plus/posts/1a450c6f/</loc>
-    
-    <lastmod>2025-06-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/posts/55180fbf/</loc>
     
     <lastmod>2025-06-23</lastmod>
     
@@ -255,15 +282,6 @@
   
   <url>
     <loc>https://dasi.plus/posts/a4ce31d2/</loc>
-    
-    <lastmod>2025-06-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/posts/57fa915c/</loc>
     
     <lastmod>2025-06-21</lastmod>
     
@@ -722,15 +740,6 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/5ef94582/</loc>
-    
-    <lastmod>2025-04-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dasi.plus/posts/287384f0/</loc>
     
     <lastmod>2025-04-05</lastmod>
@@ -759,15 +768,6 @@
   
   <url>
     <loc>https://dasi.plus/posts/9cfaa3ca/</loc>
-    
-    <lastmod>2025-04-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/posts/46ae7d29/</loc>
     
     <lastmod>2025-04-05</lastmod>
     
@@ -932,7 +932,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/HTML/</loc>
+    <loc>https://dasi.plus/tags/CSS/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -946,7 +946,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/CSS/</loc>
+    <loc>https://dasi.plus/tags/HTML/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
