@@ -650,7 +650,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/f32f8bf8/</loc>
+    <loc>https://dasi.plus/posts/67f74a9a/</loc>
     
     <lastmod>2025-04-05</lastmod>
     
@@ -659,7 +659,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/67f74a9a/</loc>
+    <loc>https://dasi.plus/posts/f32f8bf8/</loc>
     
     <lastmod>2025-04-05</lastmod>
     
@@ -888,14 +888,14 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Data-Analysis/</loc>
+    <loc>https://dasi.plus/tags/Critique/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Critique/</loc>
+    <loc>https://dasi.plus/tags/Data-Analysis/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -923,6 +923,13 @@
   </url>
   
   <url>
+    <loc>https://dasi.plus/tags/Distributed/</loc>
+    <lastmod>2025-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/tags/Frontend/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -931,13 +938,6 @@
   
   <url>
     <loc>https://dasi.plus/tags/css/</loc>
-    <lastmod>2025-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/tags/Distributed/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -965,6 +965,13 @@
   </url>
   
   <url>
+    <loc>https://dasi.plus/tags/VSCode/</loc>
+    <lastmod>2025-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/tags/Git/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -973,13 +980,6 @@
   
   <url>
     <loc>https://dasi.plus/tags/hexo/</loc>
-    <lastmod>2025-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/tags/VSCode/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
