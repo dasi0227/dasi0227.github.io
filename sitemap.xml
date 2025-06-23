@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dasi.plus/posts/575c3f93/</loc>
+    
+    <lastmod>2025-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/posts/38d36e05/</loc>
+    
+    <lastmod>2025-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/posts/3be9a986/</loc>
+    
+    <lastmod>2025-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dasi.plus/posts/d1e3c468/</loc>
+    
+    <lastmod>2025-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/posts/5b80d779/</loc>
     
     <lastmod>2025-06-23</lastmod>
@@ -344,33 +380,6 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/38d36e05/</loc>
-    
-    <lastmod>2025-06-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/posts/3be9a986/</loc>
-    
-    <lastmod>2025-06-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/posts/d1e3c468/</loc>
-    
-    <lastmod>2025-06-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dasi.plus/posts/27689e44/</loc>
     
     <lastmod>2025-06-21</lastmod>
@@ -650,7 +659,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/f32f8bf8/</loc>
+    <loc>https://dasi.plus/posts/67f74a9a/</loc>
     
     <lastmod>2025-04-05</lastmod>
     
@@ -659,7 +668,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/posts/67f74a9a/</loc>
+    <loc>https://dasi.plus/posts/f32f8bf8/</loc>
     
     <lastmod>2025-04-05</lastmod>
     
@@ -888,6 +897,13 @@
   </url>
   
   <url>
+    <loc>https://dasi.plus/tags/Python/</loc>
+    <lastmod>2025-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/tags/Database/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -916,7 +932,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/CSS/</loc>
+    <loc>https://dasi.plus/tags/HTML/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -930,7 +946,7 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/HTML/</loc>
+    <loc>https://dasi.plus/tags/CSS/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -944,14 +960,14 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Network/</loc>
+    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
+    <loc>https://dasi.plus/tags/Network/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
