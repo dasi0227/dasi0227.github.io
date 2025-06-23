@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dasi.plus/posts/1a450c6f/</loc>
+    
+    <lastmod>2025-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/posts/55180fbf/</loc>
     
     <lastmod>2025-06-23</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://dasi.plus/posts/546b580b/</loc>
-    
-    <lastmod>2025-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dasi.plus/posts/1a450c6f/</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -923,13 +923,6 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Distributed/</loc>
-    <lastmod>2025-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dasi.plus/tags/Frontend/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -944,6 +937,13 @@
   </url>
   
   <url>
+    <loc>https://dasi.plus/tags/Distributed/</loc>
+    <lastmod>2025-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dasi.plus/tags/JavaScript/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -951,14 +951,14 @@
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
+    <loc>https://dasi.plus/tags/Parallel/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dasi.plus/tags/Parallel/</loc>
+    <loc>https://dasi.plus/tags/Machine-Learning/</loc>
     <lastmod>2025-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
